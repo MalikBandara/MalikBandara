@@ -2,7 +2,6 @@
 <h1 align="center">I'm Malik Bandara</h1>
 <h3 align="center">Software Engineering Student in Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=malikbandara&label=Profile%20views&color=0e75b6&style=flat" alt="malikbandara" /> </p>
 
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
@@ -21,7 +20,7 @@
 - 📫 How to reach me **mmalith520@gmail.com**
 
 <p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=supuna97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
+ <img src="https://komarev.com/ghpvc/?username=malikbandara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="Languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
