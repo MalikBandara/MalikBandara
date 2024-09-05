@@ -37,7 +37,7 @@
 
 
 ## By the way here are some of my statistics 🚀
-![Malik Bandar's github stats](https://github-readme-stats.vercel.app/api?username=MalikBandara&show_icons=true&theme=tokyonight)
+![Malik Bandara's github stats](https://github-readme-stats.vercel.app/api?username=MalikBandara&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MalikBandara&theme=tokyonight" alt="my streak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalikBandara&theme=tokyonight&layout=compact)
 
